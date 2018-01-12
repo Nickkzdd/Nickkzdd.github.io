@@ -7,7 +7,7 @@
 
 *其它社交平台*
 
-[微信公众号](http://open.weixin.qq.com/qr/code?username=Such_A_Fool2) 待更新
+[微信公众号](http://open.weixin.qq.com/qr/code?username=Such_A_Fool2)  待更新
 
 
 
