@@ -79,6 +79,6 @@ sidebar-avatar: /img/selfimage.jpg      # use absolute URL, seeing it's used in 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
+ 
 
 
